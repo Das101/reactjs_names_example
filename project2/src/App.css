@@ -1,0 +1,19 @@
+.names-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.name {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 10px; /* You can reduce this margin to make the names closer */
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+}
+
+.names-parallel {
+  display: flex;
+  justify-content: space-between;
+  margin: 200px;
+}
